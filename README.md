@@ -24,6 +24,11 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
  You can avoid the keep_alive file but if you avoid: - Please remove the import of keep_alive in main.py
 
 Replace your api id, api hash and group_id in main.py
