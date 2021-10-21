@@ -16,8 +16,8 @@
 </details>
 
 
- https://replit.com/@Dhrubamoy/TYPPing#main.py
  
  
  
- [![String](https://telegra.ph/file/29e604cb2c211e57b77ab.jpg)](https://replit.com/@Dhrubamoy/TYPPing#main.py) 
+ 
+ [![String](https://telegra.ph/file/29e604cb2c211e57b77ab.jpg)
