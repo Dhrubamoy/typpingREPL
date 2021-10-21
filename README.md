@@ -50,4 +50,6 @@ inport the keep_alive.py from this github
 After all change the api id and api hash in the coading 
 and give a group id. get it by going to any group and then do /id
 JUST DONT NOW RUN THE REPL.......
-
+THE ADVANTAGE ARE IT THE BOT WILL SEND MESSAGE LIKE 1,2,3 ONE MESSAGE BY ONE AND THEN AUTOMATICALLY DELETE IT
+THIS WAY U CAN INCREASE THE MESSAGE.....OF THE GROUP AND SAY ALL THAT U R  A ACTIVE MEMBER
+THNX ITS A BOT WITHOUT HEROKU LUL LOL SAY ANYTHING BYE
