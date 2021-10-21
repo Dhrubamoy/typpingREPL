@@ -40,3 +40,11 @@ If you are using replit then
 First download or copy main.py and keep_alive.py then paste or upload in your repl
 
 then run it
+
+# EXPLAINING U BETTER
+Sign in to repl #create an account
+then create an repl give language python with any name
+
+
+
+
