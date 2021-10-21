@@ -10,7 +10,7 @@
 
 <details>
 
-  <summary> • PUBLISHED • </summary>
+  <summary> • 2Nd helper• </summary>
 <h2 align="center"> <a href="https://github.com/Dhrubamoy">☢️BY ME☢️</a></h2>
 
 </details>
