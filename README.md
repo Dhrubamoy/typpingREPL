@@ -44,7 +44,10 @@ then run it
 # EXPLAINING U BETTER
 Sign in to repl #create an account
 then create an repl give language python with any name
-
-
-
+Then in main.py just copy and paste all the text and coading of main.py
+and make a new coading page named keep_alive.py
+inport the keep_alive.py from this github
+After all change the api id and api hash in the coading 
+and give a group id. get it by going to any group and then do /id
+JUST DONT NOW RUN THE REPL.......
 
