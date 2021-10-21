@@ -20,4 +20,4 @@
  
  
  
- [![String](https://telegra.ph/file/20a71f70c3218af5e6b44.mp4)](https://replit.com/@Dhrubamoy/TYPPing#main.py) 
+ [![String](https://telegra.ph/file/29e604cb2c211e57b77ab.jpg)](https://replit.com/@Dhrubamoy/TYPPing#main.py) 
